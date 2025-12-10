@@ -1,10 +1,10 @@
 # Square Wave Systems
 
-<!-- ASCII art: "SQRE WAVE" in block letters -->
+<!-- ASCII art: "SQUARE WAVE" in block letters -->
 ```
-█▀▀█ █░░█ █▀▀█ █▀▀█ █▀▀   █░░░█ █▀▀█ ▀█░█▀ █▀▀
-▀▀▀▄ █▄▄█ █░░█ █▄▄█ █▀▀   █▄█▄█ █▄▄█ ░█▄█░ █▀▀
-▀▀▀▀ ▄▄▄█ ▀▀▀▀ ▀░░▀ ▀▀▀   ░▀░▀░ ▀░░▀ ░░▀░░ ▀▀▀
+█▀▀█ █▀▀█ █░░█ █▀▀█ █▀▀█ █▀▀   █░░░█ █▀▀█ ▀█░█▀ █▀▀
+▀▀▀▄ █░░█ █░░█ █▄▄█ █▄▄▀ █▀▀   █▄█▄█ █▄▄█ ░█▄█░ █▀▀
+▀▀▀▀ ▀▀▀█ ░▀▀▀ ▀░░▀ ▀░▀▀ ▀▀▀   ░▀░▀░ ▀░░▀ ░░▀░░ ▀▀▀
 ```
 
 **Modern software solutions for niche problems in industrial automation.**
