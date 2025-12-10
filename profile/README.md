@@ -67,5 +67,3 @@ We combine deep domain expertise in industrial automation with modern software e
 - **Email:** hello@squarewavesystems.com.au
 - **Location:** Gold Coast, Queensland, Australia 🇦🇺
 - **Timezone:** AEST (UTC+10)
-
----
