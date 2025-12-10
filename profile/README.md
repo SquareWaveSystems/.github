@@ -44,27 +44,6 @@ We sit at the intersection of OT and IT. We apply modern software engineering ri
 
 ---
 
-## 🚀 Active Projects
-
-### Factory Layout Planner
-> *Coming Soon*
-
-A lightweight, browser-based tool for sketching factory floors. Rapidly prototype layouts and visualize machinery placement in real-time.
-
-**Tech Stack:** React • Three.js • TypeScript • WebGL
-
----
-
-### Sysmac Studio Version Control
-> *In Development*
-
-Git-compatible version control for Omron Sysmac Studio projects. Extract PLC code to plain text for proper diffs, reviews, and collaboration.
-
-Features include plain text editing, visual diffs, patch generation, merge support, and seamless Git integration. Stop emailing ZIP files.
-
-**Tech Stack:** C# • Git • IEC 61131-3 • Omron
-
----
 
 ## 💡 Our Philosophy
 
