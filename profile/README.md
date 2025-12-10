@@ -1,5 +1,6 @@
 # Square Wave Systems
 
+<!-- ASCII art: "SQRE WAVE" in block letters -->
 ```
 █▀▀█ █░░█ █▀▀█ █▀▀█ █▀▀   █░░░█ █▀▀█ ▀█░█▀ █▀▀
 ▀▀▀▄ █▄▄█ █░░█ █▄▄█ █▀▀   █▄█▄█ █▄▄█ ░█▄█░ █▀▀
