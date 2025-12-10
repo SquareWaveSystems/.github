@@ -69,9 +69,3 @@ We combine deep domain expertise in industrial automation with modern software e
 - **Timezone:** AEST (UTC+10)
 
 ---
-
-```
-ALL_SYSTEMS: NOMINAL
-```
-
----
