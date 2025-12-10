@@ -92,8 +92,6 @@ We combine deep domain expertise in industrial automation with modern software e
 ---
 
 ```
-SIGNAL: CONNECTED
-STATUS: BUILDING // IN_POGRESS
 ALL_SYSTEMS: NOMINAL
 ```
 
