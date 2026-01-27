@@ -26,8 +26,6 @@
 
 **Modern software solutions for niche problems in industrial automation.**
 
-We bridge the gap between cutting-edge development and factory floor reality.
-
 ---
 
 ## 🏭 What We Build
@@ -38,7 +36,7 @@ We sit at the intersection of OT and IT. We apply modern software engineering ri
 
 - **🛠️ Custom Engineering Tools** — Version control wrappers for binary PLC files, IEC 61131 code generation scripts, and CLI tools that bring modern DevOps practices to the OT world.
 
-- **☁️ Web/Cloud/IIoT Integration** — Robust data pipelines connecting shop floor to cloud. We bridge industrial protocols with modern APIs using the right tools (Node-RED, n8n, custom middleware).
+- **☁️ Web/Cloud Dashboards & IIoT Integration** — Robust data pipelines connecting shop floor to cloud. We bridge industrial protocols with modern APIs using the right tools (Node-RED, n8n, custom middleware).
 
 - **🎯 Simulation & Digital Twins** — Lightweight 3D environments running natively in the browser. Sketch factory layouts and visualize machinery without heavy CAD workstations.
 
