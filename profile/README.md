@@ -1,29 +1,5 @@
 # Square Wave Systems
 
-<!-- ASCII art: "SQUARE WAVE" in block letters -->
-```
-███████╗ ██████╗ ██╗   ██╗ █████╗ ██████╗ ███████╗
-██╔════╝██╔═══██╗██║   ██║██╔═ ██╗██╔══██╗██╔════╝
-███████╗██║   ██║██║   ██║██ █ ██║███╔╝██ ║███╗
-╚════██║██║▄▄ ██║██║   ██║██╔══██║██╔══██╗██╔══╝
-███████║╚██████╔╝╚██████╔ ██║  ██║██║   ██║██████╗
-╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-
-██╗    ██╗ █████╗ ██╗   ██╗███████╗
-██║    ██║██╔══██╗██║   ██║██╔════╝
-██║ █╗ ██║███████║██║   ██║█████╗
-██║███╗██║██╔══██║╚██╗ ██╔╝██╔══╝
-╚███╔███╔╝██║  ██║ ╚████╔╝ ███████╗
- ╚══╝╚══╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝
-
-███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗███████╗
-██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ██║██╔═══╝
-███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║███████╗
-╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║╚════██║
-███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║███████║
-╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚══════╝
-```
-
 **Modern software solutions for niche problems in industrial automation.**
 
 ---
@@ -34,11 +10,9 @@ We sit at the intersection of OT and IT. We apply modern software engineering ri
 
 ### Our Focus Areas
 
-- **🛠️ Custom Engineering Tools** — Version control wrappers for binary PLC files, IEC 61131 code generation scripts, and CLI tools that bring modern DevOps practices to the OT world.
-
-- **☁️ Web/Cloud Dashboards & IIoT Integration** — Robust data pipelines connecting shop floor to cloud. We bridge industrial protocols with modern APIs using the right tools (Node-RED, n8n, custom middleware).
-
 - **🎯 Simulation & Digital Twins** — Lightweight 3D environments running natively in the browser. Sketch factory layouts and visualize machinery without heavy CAD workstations.
+- 
+- **🛠️ Custom Engineering Tools** — Version control wrappers for binary PLC files, IEC 61131 code generation scripts, and CLI tools that bring modern DevOps practices to the OT world.
 
 ---
 
@@ -49,7 +23,7 @@ We sit at the intersection of OT and IT. We apply modern software engineering ri
 
 Industrial automation deserves better software. For too long, the industry has relied on clunky, expensive, proprietary suites that feel like they were designed in Windows 95.
 
-We combine deep domain expertise in industrial automation with modern software engineering. We respect the reliability of the old hardware, but we demand the usability of modern software.
+We combine deep domain expertise in industrial automation with modern software engineering. We respect the reliability of the old hardware, but we demand the usability of modern software tools.
 
 ### Our Values
 
